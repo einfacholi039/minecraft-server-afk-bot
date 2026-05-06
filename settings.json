@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Hitler88",
+    "username": "AFKBOT_made_by_oli",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "TheLifeStealSMP.play.hosting",
-    "port": 21401,
+    "ip": "XTheLifeStealSMPX.enderman.cloud",
+    "port": 28596,
     "version": "",
     "try-creative": false
   },
